@@ -1,0 +1,6 @@
+train/
+test/
+val/
+voice recoganation/
+__pycache__/
+*.pyc
